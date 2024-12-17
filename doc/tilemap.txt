@@ -1,0 +1,21 @@
+
+# Setup
+- Tạo Node TileMap trong Scene
+- Chọn Node TileMap
+- Bên phải khung Properties
+	- Tile Set: Chọn TileSet
+- Bên dưới có các tab, chọn TileSet
+- Kéo thả Solaria Demo Tiles.png vào chỗ trống
+- Gọp các tile lớn lại
+	- Có nút Erase (E) dùng để xóa, xóa các tile lớn
+	- Tắt Erase và giữ shift chọn ô lớn đó cho 1 tile
+	- Có thể xóa 1 ô sau đó chọn Select, chọn ô cần mở rộng, kéo thả cho đủ bao phủ tile lớn
+
+# Draw
+- Chọn tile và click lên bản đồ ở giữa
+- Giữ shift để vẽ đường thẳng
+- Giữ Ctrl-Shift để vẽ hình chữ nhật
+
+
+
+
